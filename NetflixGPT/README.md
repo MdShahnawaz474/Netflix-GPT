@@ -2,13 +2,17 @@
 
 - Create Vite 
 - Configured Tailwind CSS
+- Header 
+- LogIn Form
+- SignUp Form
 
 ...
 # Features 
 - Login/SignUp
     - Sign In / Sign Up Form
     - redirect to Browse
-- Browse (After Authentication)
+    
+- Browser (After Authentication)
     - Header
     - Main Movie
         - Trailer in Background
